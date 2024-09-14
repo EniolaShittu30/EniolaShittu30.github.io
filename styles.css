@@ -23,4 +23,12 @@ body > main > article {
 form {box-align: center; text-align: center;}
 h3 {box-align: center; text-align: center;}
 
-
+body > footer {
+    display: flex;
+    text-align: center;
+}
+#bottom {
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+}
